@@ -1,4 +1,4 @@
-# training-achievments
+# training-achievments of Internship with Coursera
 This includes some certificates which i earned from the training period from COURSERA(orgainzation)
 1. Deep Learning Speacialization: 
 1.1 neural networks and deep learning
